@@ -1,0 +1,20 @@
+WinRAR 5.91 / Winrar 6.00 Beta 2
+WinRAR is a trialware file archiver utility for Windows, developed by Eugene Roshal of win.rar GmbH. It can create and view archives in RAR or ZIP file formats,[10] and unpack numerous archive file formats. To enable the user to test the integrity of archives, WinRAR embeds CRC32 or BLAKE2 checksums for each file in each archive. WinRAR supports creating encrypted, multi-part and self-extracting archives.
+--------------------------------------------------------------------------------------------------------
+Oficial Site:  rarlab.com
+Download serial: mediafire.com/file/d6tl94005w9szc8/winrar591-600beta2-chave.zip/file
+--------------------------------------------------------------------------------------------------------
+or manual activation
+save the code to a ( rarreg.key)  file and move to winrar folder, code>>
+--------------------------------------------------------------------------------------------------------
+RAR registration data
+WinRAR - win-rar.com | winrarbrasil.com.br |
+Licença ilimitada - WinRAR 5.91/6.00 Beta 2
+UID=4402f0bc9cb15e773674
+641221225036740356368caae4f1001f98f235697c4f91282d3b41
+6ec46ca8ce766a1005386011c95415f52d5560f35a00799bac849b
+6fcebf48c520dc2be9f1a32518dc1195f0121a2a3806883e40f5c4
+a824fdd4e986e99894dbab72d726eb503b60be5d4dbf65a53f991f
+765da0f2c7396c990f80d4c2fc8a07f0597f5849202a7edfbf9da8
+4fed3baf8fc6dc58c68be20cb899a26a70304059c9b0fbf3608445
+32bef02e62788e85cfd75f664205f9fad4d5fb9a80fe2519421415
